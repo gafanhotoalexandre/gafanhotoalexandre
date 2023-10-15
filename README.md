@@ -5,7 +5,7 @@ A 21-year-old enthusiast of programming, crafting great experiences with JavaScr
 - 🌱 I’m currently learning ReactJS & TypeScript.
 - ⚡ Fun fact: I love the C# programming language.
 
-<div style="display: inline_block"><br>
+<div style="display: flex; gap: 1rem; margin-top: 2rem"><br>
   <img align="center" alt="Alexandre-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alexandre-Ts" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Alexandre-React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
