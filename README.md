@@ -1,7 +1,7 @@
 ## Hello! I’m Alexandre Martins 👋
-A 21-year-old enthusiast of programming, crafting great experiences with JavaScript, TypeScript, and ReactJS on the front end. Also, exploring the world of games with Game Maker and bringing pixel art to life.
+A 22-year-old enthusiast of programming, crafting great experiences with JavaScript, TypeScript, and ReactJS on the front end. Also, exploring the world of games with Game Maker and bringing pixel art to life.
 
-- 👨‍🎓 I’m a student.
+- 👨‍🎓 I’m a FrontEnd Developer.
 - 🌱 I’m currently learning ReactJS & TypeScript.
 - ⚡ Fun fact: I love the C# programming language.
 
