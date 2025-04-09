@@ -3,7 +3,7 @@ A 22-year-old enthusiast of programming, crafting great experiences with JavaScr
 
 - 👨‍🎓 I’m a FrontEnd Developer.
 - 🌱 I’m currently learning ReactJS & TypeScript.
-- ⚡ Fun fact: I fell in love with the C# programming language.
+- ⚡ Fun fact: I fell in love with the Go programming language.
 
 Frontend:
 <div style="display: inline-block">
