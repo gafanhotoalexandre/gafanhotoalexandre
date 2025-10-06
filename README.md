@@ -1,6 +1,6 @@
 # 👋 Hello! I’m Alexandre Martins
 
-💻 22-year-old developer building solid foundations in software engineering.  
+💻 23-year-old developer building solid foundations in software engineering.  
 Focused on clean, scalable and robust applications — from web frontends to powerful backends.
 
 ---
@@ -9,7 +9,6 @@ Focused on clean, scalable and robust applications — from web frontends to pow
 
 - 🛡 .NET 8 backend development with Clean Architecture, Domain-Driven Design (DDD), SOLID principles and CI/CD pipelines.
 - 🔥 Fullstack Web with TypeScript, ReactJS, TailwindCSS and Next.js.
-- ⚙ Learning backend performance and concurrency with GoLang.
 
 ---
 
@@ -31,7 +30,7 @@ Focused on clean, scalable and robust applications — from web frontends to pow
   <img align="center" alt="C#" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
   <img align="center" alt=".NET" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">  
   <img align="center" alt="NodeJS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">  
-  <img align="center" alt="GoLang" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">  
+  <!-- <img align="center" alt="GoLang" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">   -->
   <img align="center" alt="PostgreSQL" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">  
 </div>  
 
