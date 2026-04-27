@@ -1,57 +1,47 @@
-# Opa! Sou Alexandre Martins
+# Alexandre Martins
 
-Desenvolvedor de software com foco em backend, interessado em construir sistemas sólidos, escaláveis e bem estruturados.  
-Atuo com .NET no backend e tecnologias modernas no frontend, sempre buscando boas práticas de arquitetura e engenharia de software.
+**Full Stack Software Engineer | .NET | Angular | APIs | Arquitetura de Software**
 
----
+Engenheiro de Software com foco em sistemas escaláveis, atuando principalmente com o ecossistema .NET no backend e tecnologias modernas no frontend. Atualmente, contribuo para a evolução de sistemas jurídicos corporativos na LegalPlus.
 
-## Foco atual
-
-- Desenvolvimento backend com **.NET (ASP.NET Core, .NET 8/10 LTS)**  
-  Aplicando Clean Architecture, Domain-Driven Design (DDD), princípios SOLID e integração com CI/CD.
-- Desenvolvimento web com **TypeScript e React**, focando em aplicações bem organizadas e de fácil manutenção.
-- Estudo e prática de **Angular**, visando alinhamento com ecossistemas .NET, e exploração de **Blazor** em projetos pessoais, ambos realizados nas horas vagas.
+Juazeiro do Norte - CE, Brasil
 
 ---
 
-## Tecnologias
+### Experiência e Foco
 
-### Frontend
-<div style="display: inline-block">  
-  <img align="center" alt="HTML5" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
-  <img align="center" alt="CSS3" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="JavaScript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="TypeScript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
-  <img align="center" alt="React" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
-  <img align="center" alt="Angular" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">  
-</div>  
-
-### Backend
-<div style="display: inline-block">  
-  <img align="center" alt="C#" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
-  <img align="center" alt=".NET" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">  
-  <img align="center" alt="Node.js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">  
-  <img align="center" alt="PostgreSQL" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">  
-</div>  
-
-### DevOps e Ferramentas
-<div style="display: inline-block">  
-  <img align="center" alt="Docker" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">  
-  <img align="center" alt="Azure" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg">  
-  <img align="center" alt="Git" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">  
-  <img align="center" alt="GitHub Actions" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">  
-</div>  
+* **Backend:** Especialista em .NET 10, ASP.NET Core e EF Core. Experiência em Clean Architecture, Domain-Driven Design (DDD) e princípios SOLID para garantir sistemas de alta manutenibilidade.
+* **Frontend:** Desenvolvimento de interfaces robustas com Angular 21 (Signals/RxJS), TypeScript e React. Foco em performance, acessibilidade e evolução incremental de produto.
+* **Práticas:** Revisão de código, mentoria técnica de desenvolvedores juniores, documentação OpenAPI/Swagger e conformidade regulatória.
 
 ---
 
-## Objetivo profissional
+### Tecnologias
 
-Consolidar-me como desenvolvedor backend com forte base em arquitetura de software, preparado para atuar em sistemas corporativos e ambientes cloud-native.
+**Backend & Database**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat)
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
-## Portfólio e contato
+### Educação e Idiomas
 
-- Portfólio: https://alemartins.dev.br  
-- LinkedIn: https://www.linkedin.com/in/alemartins-lima/  
-- Email: alexandrevmartinsdelima@gmail.com
+* **Pós-Graduação em Engenharia de Software** – Faculdade Líbano
+* **Análise e Desenvolvimento de Sistemas** – Leão Sampaio
+* **Inglês:** Avançado para leitura técnica e comunicação escrita
+
+---
+
+### Contato
+
+* **Portfólio:** [io.alemartins.dev.br](https://io.alemartins.dev.br)
+* **LinkedIn:** [linkedin.com/in/alemartins-lima](https://www.linkedin.com/in/alemartins-lima)
+* **Email:** [alexandrevmartinsdelima@gmail.com](mailto:alexandrevmartinsdelima@gmail.com)
